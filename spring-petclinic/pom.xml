@@ -4,7 +4,7 @@
 
     <groupId>com.petclinic</groupId>
     <artifactId>spring-petclinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <modules>
         <module>spring-petclinic-data</module>
         <module>spring-petclinic-web</module>
@@ -44,7 +44,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:jakejakeR/spring-petclinic.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>spring-petclinic-0.0.2</tag>
   </scm>
 
 </project>
